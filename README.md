@@ -40,7 +40,7 @@ Bem-vindo ao meu perfil GitHub! Sou um desenvolvedor focado em **projetos web mo
 
 ## 🔗 Contato
 - **Email:** jonathan2500@outlook.pt  
-- **LinkedIn:** [Jonathan Carvalho](https://www.linkedin.com/in/jonathan-carvalho/)  
+- **LinkedIn:** [Jonathan Viana](https://www.linkedin.com/in/jonathan-viana-b23b81186/)  
 - **GitHub:** [Dot010](https://github.com/Dot010)  
 
 ---
